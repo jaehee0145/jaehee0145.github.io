@@ -12,9 +12,9 @@ Tags:
 오늘을 마지막으로 3개월 간의 '웹 프로그래밍 마스터' 과정이 끝났다.   
 정신없이 지나간 지난 3개월을 되돌아보고자 한다.  
 
-**0. 3개월 전의 나는?**
+#0. 3개월 전의 나는?
 
-"프로그래밍은 처음입니다."  
+>"프로그래밍은 처음입니다."  
 개강일, 자기소개로 처음 했던 말이다.  
 
 전공과 전혀 관련없는 회사를 다니다가,  
@@ -24,29 +24,28 @@ Tags:
 과연 학원 진도를 쫓아갈 수 있을까 잔뜩 걱정을 하고 개강을 맞이했다.  
 
 
-**1. 무엇을 배웠을까?**
+#1. 무엇을 배웠을까?
 
 1) 수업
 - 객체 지향을 중심으로 Java 기본 문법
 - Java Network  
-    Web Server 구현  
-    Chatting Server 구현  
+    -Web Server 구현  
+    -Chatting Server 구현  
 
 - Http Protocol
 - JSP/ Servlet  
-    게시판 구현
+    -게시판 구현
 
 - DBMS_ MySQL
 
 - Spring Framework      
-    Spring Core  
-    Spring MVC  
-    Spring JDBC  
-    Spring Data JPA  
-    Spring Security  
+    -Spring Core  
+    -Spring MVC  
+    -Spring JDBC  
+    -Spring Data JPA  
+    -Spring Security  
 - Spring Boot  
-    쇼핑몰 구현
-
+    -쇼핑몰 구현
 - Git
 - Docker
 
@@ -57,9 +56,9 @@ Tags:
 - 정보처리기사 
 
 
-**2. 3개월 동안의 나는?**
+#2. 3개월 동안의 나는?
 
-"성실했던 나에게 셀프 박수"
+>"성실했던 나에게 셀프 박수"
 
 눈을 뜨고 있는 동안에는 공부를 하려고 노력했다.  
 물론 멍하니 시간을 보내거나 슬럼프에 빠져 하루를 통으로 날린 적도 종종 있었지만,  
@@ -80,7 +79,7 @@ Tags:
 그래도 성실하게 시간을 채웠다.  
 
 
-**3. 나의 프로그래밍 실력은?**
+#3. 나의 프로그래밍 실력은?
 
 "???"
 
