@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "default" "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jaehee's blog"
+title                    : "Jaehee's Blog"
 title_separator          : "-"
 name                     : "Jaehee"
 description              : "재희의 부로그"
