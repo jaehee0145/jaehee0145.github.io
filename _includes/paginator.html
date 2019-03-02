@@ -21,8 +21,8 @@
     {% endif %}
 
     {% assign page_start = 2 %}
-    {% if paginator.page > 6 %}
-    <!--수정 4->6 -->
+    {% if paginator.page > 4 %}
+    <!--수정 4->6->4 -->
       {% assign page_start = paginator.page | minus: 2 %}
       {% comment %} Ellipsis for truncated links {% endcomment %}
       <li><a href="#" class="disabled">&hellip;</a></li>
@@ -30,8 +30,8 @@
 
     {% assign page_end = paginator.total_pages | minus: 1 %}
     {% assign pages_to_end = paginator.total_pages | minus: paginator.page %}
-    {% if pages_to_end > 6 %}
-    <!--수정 4->6 -->
+    {% if pages_to_end > 4 %}
+    <!--수정 4->6->4 -->
       {% assign page_end = paginator.page | plus: 2 %}
     {% endif %}
 
