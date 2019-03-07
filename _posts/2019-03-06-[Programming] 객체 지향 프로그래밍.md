@@ -8,8 +8,8 @@ Tags:
 
 ---
 Today I learn :)  
-  
-   
+
+
 ## 객체 지향 프로그래밍이란?  
 프로그래밍에서 필요한 데이터와 기능을 추상화시켜 객체로 만들고  
 객체 간의 상호작용을 이용해 프로그램을 만드는 방법이다.  
@@ -76,13 +76,9 @@ Today I learn :)
     
 ---
 ### 참고  
-* 위키백과_ 객체 지향 프로그래밍  
-  https://ko.wikipedia.org/wiki/%EA%B0%9D%EC%B2%B4_%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D  
-* 객체 지향 프로그래밍이 뭔가요? (꼬리에 꼬리를 무는 질문 1순위, 그놈의 OOP)  
-  https://jeong-pro.tistory.com/95  
-* Object Oriented Programming  
-  https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Development_common_sense#object-oriented-programming  
-* #객체 지향에 대한 이해/ 객체 지향적 설계  
-  https://asfirstalways.tistory.com/177  
+[위키백과_ 객체 지향 프로그래밍](https://ko.wikipedia.org/wiki/%EA%B0%9D%EC%B2%B4_%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)    
+[객체 지향 프로그래밍이 뭔가요?](https://jeong-pro.tistory.com/95)    
+[Object Oriented Programming](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Development_common_sense#object-oriented-programming)  
+[#객체 지향에 대한 이해/ 객체 지향적 설계](https://asfirstalways.tistory.com/177)   
 
   
