@@ -4,7 +4,7 @@ layout: single
 categories:
   - Web
 Tags:
-  - Web, Http Protocol
+  - Web, Http Protocol,
 
 ---
 HTTP Protocol  
