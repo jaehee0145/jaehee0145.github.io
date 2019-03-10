@@ -27,9 +27,9 @@ HTTP Protocol
 ## Message Fromat  
 1. 요청 메세지
    클라이언트가 서버에게 보내는 메세지  
-   `GET / HTTP/1.1  
+   ```GET / HTTP/1.1  
         Host: developer.mozilla.ort  
-        Accept- Language: fr  `  
+        Accept- Language: fr  ```  
   1) Request Line (Method / Path / Version of Protocol)  
   2) Headers
   3) Empty line
@@ -42,8 +42,8 @@ HTTP Protocol
 
 2. 응답 메세지
     서버가 클라이언트에게 보내는 메세지  
-    `HTTP/1.1 200 OK  
-        Date: Sat, 29 Dec 2018  `
+    ```HTTP/1.1 200 OK  
+        Date: Sat, 29 Dec 2018  ```  
     1) Response Line (version of Protocol/ Status Code / Status Message)  
     2) Headers  
     3) Empty Line  
