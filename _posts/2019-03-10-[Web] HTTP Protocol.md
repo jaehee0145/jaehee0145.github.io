@@ -25,7 +25,7 @@ HTTP Protocol
 - 문서화된 최초의 HTTP 버전은 HTTP V0.9 (1991년)   
 
 ## Message Fromat  
-1. 요청 메세지
+### 1. 요청 메세지
    클라이언트가 서버에게 보내는 메세지  
    ```
    GET / HTTP/1.1  
@@ -33,8 +33,8 @@ HTTP Protocol
    Accept- Language: fr  
    ```  
   1) Request Line (Method / Path / Version of Protocol)  
-  2) Headers
-  3) Empty line
+  2) Headers  
+  3) Empty line  
   4) Body  
     - Method : 클라이언트가 실행하고자 하는 동작을 정의  
               (GET, POST를 주로 사용)
@@ -42,7 +42,7 @@ HTTP Protocol
     - Headers: 서버에 추가 정보를 전달  
     - Body: POST와 같은 메소드의 경우 추가 메세지를 갖는다. 
 
-2. 응답 메세지
+### 2. 응답 메세지
     서버가 클라이언트에게 보내는 메세지  
     ```
     HTTP/1.1 200 OK  
