@@ -57,9 +57,10 @@ HTTP Protocol
       - Status Message: 상태 코드에 대한 설명 메세지  
 
 
-
-
-
+---
+## HTTPS Protocol 이란?  
+> HTTPS(HyperText Transfer Protocol over Secure Socket Layer)는 HTTP의 보안이 강화된 버전이다.  
+HTTPS는 소켓 통신에서 일반 텍스트를 이용하는 대신에, SSL이나 TLS 프로토콜을 통해 세션 데이터를 암호화한다. 
 
   
 
