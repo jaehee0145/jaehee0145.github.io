@@ -17,6 +17,12 @@ REST API
 * REST는 기본적으로 웹의 기존 기술과 HTTP 프로토콜을 그대로 활용하기 때문에 웹의 장점을 최대한 활용할 수 있는 아키텍처 스타일이다.  
 * API 설계의 중심에 자원(Resource)이 있고 HTTP Method를 통해 자원을 처리하도록 설계하는 것이다.  
 
+## REST가 필요한 이유  
+* 애플리케이션 분리와 통합을 쉽게 하기 위해서  
+* 다양한 클라이언트(브라우저, 모바일 디바이스)를 처리하기 위해서  
+
+
+
 ## REST 구성 요소  
 1. 자원(Resource): URI  
   * 모든 자원에 고유한 ID가 존재하고, 이 자원은 Server에 존재한다.  
@@ -81,8 +87,8 @@ REST API
 
 
 ---
-참고
+참고  
 [[Network] REST란? REST API란? RESTful이란?](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)  
-[REST API 제대로 알고 사용하기]([http://tcpschool.com/java/java_thread_concept](https://meetup.toast.com/posts/92))   
+[REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)   
 
  
