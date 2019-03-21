@@ -35,4 +35,8 @@ Funtional Programming
 ---
 참고
 
-함수형 자바 스크립트 프로그래밍_ 유인동 지음
+함수형 자바 스크립트 프로그래밍_ 유인동 지음  
+[함수형 프로그래밍 입문기](https://medium.com/@originerd/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9E%85%EB%AC%B8%EA%B8%B0-14ce8f98e34e)  
+[함수형 프로그래밍과 객체지향 프로그래밍](https://madplay.github.io/post/functional-programming-object-oriented-programming)  
+[함수형 프로그래밍 요약](https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD#%EB%AA%85%EB%A0%B9%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC%EC%9D%98-%EB%B9%84%EA%B5%90)  
+[[JAVA 8] - 함수형 프로그래밍(Functional Programming)](https://swiftymind.tistory.com/108)  
