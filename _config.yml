@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "박재희"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "재희의 블로그"
   location         : "Seoul,Korea"
   email            :
@@ -126,9 +126,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jaehee0145"
-    - label: "Instagram"
+    - label: "Instagram_WorkOut"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/jaehee_every_day/"
 
 # Site Footer
 footer:
