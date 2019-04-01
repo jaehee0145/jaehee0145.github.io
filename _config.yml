@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "박재희"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "재희의 블로그"
   location         : "Seoul,Korea"
   email            :
