@@ -10,5 +10,5 @@ Hello world
 :)  
 2019  
 
-{% include youtube.html id="https://www.youtube.com/watch?v=G7oykoQztEs" %}  
+{% include youtube.html id="G7oykoQztEs" %}  
 
