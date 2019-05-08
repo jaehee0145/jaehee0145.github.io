@@ -128,7 +128,7 @@ author:
       url: "https://github.com/jaehee0145"
     - label: "Instagram_WorkOut"
       icon: "fas fa-hashtag"
-      url: "https://www.instagram.com/jaehee_every_day/"
+     # url: "https://www.instagram.com/jaehee_every_day/"
 
 # Site Footer
 footer:
