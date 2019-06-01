@@ -1,5 +1,5 @@
 ---
-title: "[Java] Overloading vs Overriding"
+title: "[Java] Generics"
 layout: single
 categories:
   - Java
@@ -10,7 +10,7 @@ Tags:
 How to master Java
 
 ### 1. Overview  
-> Method overloading and overriding are key concepts of the Java programming language, and as such, they deserve an in-depth look.  -by baeldung  
+> Java Generics were introduced in JDK 5.0 with the aim of reducing bugs and adding an extra layer of abstraction over types.  -by baeldung  
 
 * Overloading과 Overriding은 객체 지향 프로그래밍의 특징 중 하나인 다형성을 구현하는 방법   
 * 두 개념은 이름이 비슷하고 헷갈리기 쉽다. 개념을 확실히 이해하고 차이점을 알아보자.  
