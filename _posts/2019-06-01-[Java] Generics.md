@@ -33,7 +33,7 @@ How to master Java
   list.add("hello");
   String s = list.get(0); // 타입 변환이 필요하지 않음
 ```
-  
+    
 ---
 참고  
 
