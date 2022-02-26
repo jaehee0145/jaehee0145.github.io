@@ -41,6 +41,10 @@
   overflow: hidden;
   text-overflow: ellipsis;
 
+  a {
+    text-decoration:none !important;
+  }
+
   a::before {
     content: '';
     position: absolute;
